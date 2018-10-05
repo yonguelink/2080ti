@@ -5,7 +5,7 @@
 Core Clock: 1605 MHz
 Memory Clock: 14 Gbps
 
-## Effective clocks (Afterburner)
+### Effective clocks (Afterburner)
 
 Core Clock: ~1920 MHz
 Memory Click: 7000 MHz (14 Gbps effective)
