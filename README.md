@@ -24,7 +24,6 @@ Ran at 1080p
 * Graphics score: 21288
 * FPS 1: 142.37
 * FPS 2: 119.38
-
 * CPU Score: 8725
 * FPS: 29.32
 
